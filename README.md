@@ -14,5 +14,5 @@ Investigate the feasibility of novel viral capsid construction by evaluating the
 
 Development of our software tools was achieved using Python 3.7. Data for capsid dimensions was retrieved from the VIPERdb database and interactive web-based subplots were designed using the plotly Python library. The results are output to the user as a combination of detailed tables printed within the shell of the user’s IDE, and also through web-based subplots demonstrating highlighted components of data.
 
-To run our programs, all files need to be downloaded, P1.py contains variable lists, the functions for our calculation are found in P2.py Run the CapsidOptimizer and CapsidBuilder, from their respective py. files. The plotly Python library must also be installed to display web-based interactive subplots of the data. Once the files are run, user input for a one of 57 candiate genes is required.
+To run our programs, all files need to be downloaded, P1.py contains variable lists, the functions for our calculation are found in P2.py. Run the CapsidOptimizer and CapsidBuilder, from their respective py. files. The plotly Python library must also be installed to display web-based interactive subplots of the data. Once the files are run, user input for one of 57 candiate genes is required.
 
