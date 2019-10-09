@@ -1,4 +1,4 @@
-# Capacity
+# Capacity - KCL iGEM 2019
 Synthetic biology relies heavily upon the integration of mathematics and engineering principles to design new biological systems with novel functionalities. Alongside our wet lab studies, we have created two software tools which serve as an informative resource for users to not only investigate the size limitations of current viral vectors but also equip them with a tool to investigate how capsid architecture may be manipulated to accommodate for a candidate therapeutic gene. 
 
 CapsidOptimizer
