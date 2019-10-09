@@ -1,0 +1,69 @@
+Entry ID,Family,Genus,Genome,T,Subunits,Inner Radius,Outer Radius,Average Radius,Net Surface Charge,Outside SASA,Packaging Capacity (bp),Positions ,Volume Calc
+"1vsz,1x9p,1x9t,2bld,2c6s,2c9f,2c9g,3iyn,4aqq,4ar2",Adenoviridae,Mastadenovirus,dsDNA,pT25,780,326,488,458,5100,16954440,7500,0,145124724.9
+3ide,Birnaviridae,Aquabirnavirus,dsRNA,1,60,56,133,132,-180,521256,,1,735618.5806
+"1wcd,1wce,2df7,3fbm",Birnaviridae,Avibirnavirus,dsRNA,13,780,252,374,353,-480,582972,,2,67033243.16
+amv,Bromoviridae,Alfamovirus,ssRNA,1,60,57,111,106,180,458748,,3,775734.6244
+"1cwp,1js9,1yc6,1za7,ccmv_swln_1,ccmv_swln_2",Bromoviridae,Bromovirus,ssRNA,3,180,118,168,165,1020,1099530,,4,6882316.348
+"1f15,1laj",Bromoviridae,Cucumovirus,ssRNA,3,180,89,151,149,1680,1180140,,5,2952967.242
+3m8l,Caliciviridae,Calicivirus,ssRNA,3,180,118,208,205,-60,2775090,,6,6882316.348
+"3j1p,3zue",Caliciviridae,Lagovirus,ssRNA,3,180,119,219,216,-420,2769846,,7,7058777.513
+1ihm,Caliciviridae,Norovirus,ssRNA,3,180,121,200,199,0,2132238,,8,7420697.364
+2gh8,Caliciviridae,Vesivirus,ssRNA,3,180,119,208,206,240,2707686,,9,7058777.513
+3j3i,Chrysoviridae,Chrysovirus,dsRNA,1,60,156,208,200,1380,1690836,,10,15902390.15
+3r0r,Circoviridae,Circovirus,ssDNA,1,60,63,102,99,420,272502,,11,1047394.424
+"1bmv,1ny7,1pgl,1pgw,2bfu,rcmv",Comoviridae,Comovirus,ssRNA,pT3,60,102,160,153,480,816684,,12,4445177.676
+"1a6c,2y7t",Comoviridae,Nepovirus,ssRNA,pT3,60,110,158,154,840,669252,,13,5575279.763
+"4btg,4btq,4bx4",Cystoviridae,Cystovirus,dsRNA,13,780,213,258,253,1740,3460410,,14,40478780.46
+"1b35,3nap",Dicistroviridae,Cripavirus,ssRNA,pT3,60,114,168,164,180,1069206,,15,6205876.995
+"1k4r,1n6g,1na4,1p58,1tge,1thd,2of6,2r6p,3c6d,3c6r,3iyw,3j27,3j35,3j42,3zko,4azx,4b03",Flaviviridae,Flavivirus,ssRNA,3,180,222,338,338,3240,5840328,,16,45829754.69
+"1qgt,2g33,2g34,2qij,3iyo,4g93",Hepadnaviridae,Orthohepadnavirus,dsDNA,4,240,127,206,200,900,4115244,,17,8580246.646
+5zap,Herpesviridae,Alphaherpesvirinae,dsDNA,16,960,451,648,138,0,0,30000,18,384253856.5
+1qbe,Leviviridae,Allolevivirus,ssRNA,3,180,107,147,143,300,725280,,19,5131448.119
+"1aq3,1aq4,1bms,1dwn,1dzs,1e7x,1fr5,1frs,1gav,1gkv,1gkw,1kuo,1mst,1mva,1mvb,1u1y,1zdh,1zdi,1zdj,1zdk,1zse,2b2d,2b2e,2b2g,2bu1,2c4y,2c4z,2c50,2c51,2ms2,2w4y,2w4z,2wbh,4ang,5msf,6msf,7msf",Leviviridae,Levivirus,ssRNA,3,180,109,151,146,540,846840,,20,5424604.79
+"1al0,1cd3,1gff,1kvp,1m06,1m0f,1rb8,2bpa",Microviridae,Microvirus,ssDNA,1,60,97,179,179,1200,3523644,,21,3822995.723
+3j26,Mimiviridae,Mimivirus,dsDNA,27,1620,280,411,374,-1020,9672990,,22,91952322.58
+3kk5,Mimiviridae,Satellite,dsDNA,27,1620,282,378,370,0,0,,23,93936837.33
+"01-Nov,1f8v,2bbv,2q23,2q25,2q26,2z2q,3lob,4fsj,4ftb,4fte,4fts",Nodaviridae,Alphanodavirus,ssRNA,3,180,104,179,174,1200,1293810,,24,4711819.305
+"1dzl,1l0t,3j6r",Papillomaviridae,Alphapapillomavirus,dsDNA,7d,360,225,301,298,3900,5762142,,25,47712938.43
+3iyj,Papillomaviridae,Deltapapillomavirus,dsDNA,7d,360,209,290,286,3120,5055942,,26,38240843.89
+3es5,Partitiviridae,Parititivirus,dsRNA,2,120,118,188,184,-840,1205724,,27,6882316.348
+3iym,Partitiviridae,Partitivirus,dsRNA,2,120,123,189,176,300,1550130,,28,7794781.462
+3n7x,Parvoviridae,Brevidensovirus,ssDNA,1,60,76,123,115,780,396150,4500,29,1838778.369
+"1dnv,3p0s",Parvoviridae,Densovirus,ssDNA,1,60,90,133,130,660,557400,4500,30,3053628.059
+"1lp3,2g8g,2qa0,3j1q,3j1s,3j4p,3kic,3kie,3ng9,3ntt,3oah,3ra2,3ra4,3ra8,3ra9,3raa,3tsx,3ux1,4iov",Parvoviridae,Dependovirus,ssDNA,1,60,84,189,186,900,1530930,4500,31,2482712.71
+"1c8d,1c8e,1c8f,1c8g,1c8h,1fpv,1ijs,1k3v,1mvm,1p5w,1p5y,1s58,1z14,2cas,4dpv,4g0r,4gbt",Parvoviridae,Parvovirus,ssDNA,1,60,83,145,140,900,711168,4500,32,2395095.785
+1m4x,Phycodnaviridae,Chlorovirus,dsDNA,pT169,5040,743,929,847,1080,2390460,,33,1718126161
+2vf1,Picobirnaviridae,Picobirnavirus,dsRNA,2,120,131,191,187,-660,1288608,,34,9416781.56
+"1bbt,1fmd,1fod,1qgc,1qqp,1zba,1zbe,2wff,2ws9,4gh4,4iv1,4iv3",Picornaviridae,Aphthovirus,ssRNA,pT3,60,114,216,214,1320,1701924,,35,6205876.995
+"1mec,1tme,1tmf,2mev",Picornaviridae,Cardiovirus,ssRNA,pT3,60,112,168,159,660,907038,,36,5884948.645
+"1al2,1ar6,1ar7,1ar8,1ar9,1asj,1bev,1cov,1d4m,1dgi,1eah,1ev1,1h8t,1hxs,1jew,1m11,1mqt,1nn8,1oop,1piv,1po1,1po2,1pov,1pvc,1upn,1vba,1vbb,1vbc,1vbd,1vbe,1xyr,1z7s,1z7z,2c8i,2plv,2x5i,3dpr,3epc,3epd,3epf,3iyb,3iyc,3iyp,3j22,3j23,3j2j,3j3o,3j3p,3j48,3j69,3j6a,3vbf,3vbh,3vbo,3vbr,3vbs,3vbu,3zfe,3zff,3zfg,4aed,4agx,4agy,4bip,4biq,4c0u,4c0y,4c10,4cdq,4cdu,4cdw,4cdx,4cew,4cey,4gb3,4gmp,4jgy,4jgz,4l3b,4n43,4n53,4pdw,hrvc",Picornaviridae,Enterovirus,ssRNA,pT3,60,117,318,310,1380,3672072,,37,6708820.846
+"1aym,1ayn,1c8m,1d3e,1d3i,1fpn,1hri,1hrv,1k5m,1na1,1ncq,1ncr,1nd2,1nd3,1qju,1qjx,1qjy,1r08,1r09,1r1a,1rhi,1rmu,1ruc,1rud,1rue,1ruf,1rug,1ruh,1rui,1ruj,1rvf,1v9u,1vrh,2hwb,2hwc,2hwd,2hwe,2hwf,2r04,2r06,2r07,2rm2,2rmu,2rr1,2rs1,2rs3,2rs5,3tn9,3vdd,4rhv",Picornaviridae,Rhinovirus,ssRNA,pT3,60,115,214,212,1320,2884770,,38,6370626.303
+3cji,Picornaviridae,Senecavirus,ssRNA,pT3,60,106,163,157,240,944880,,39,4988916.155
+3j40,Podoviridae,Epsilon15-like,dsDNA,7l,420,266,342,333,-2280,6257532,,40,78837622.57
+"2xyy,3c5b,3iyh,3iyi",Podoviridae,P22-like viruses,dsDNA,7l,420,268,334,321,-2460,7471218,,41,80629318.94
+"3izg,3j1a",Podoviridae,T7-like,dsDNA,7,420,275,335,332,360,3352578,,42,87113746.29
+4bml,Podoviridae,Unassigned Autographivirinae,dsDNA,7l,420,269,332,320,-600,6594810,,43,81535257.91
+"1sid,1sie,1sva,3iys",Polyomaviridae,Polyomavirus,dsDNA,7d,360,179,255,252,-840,4293570,,44,24024131.82
+3iyl,Reoviridae,Aquareovirus,dsRNA,2,120,238,476,275,6180,N/A,,45,56470220.1
+"3izx,3j17",Reoviridae,Cypovirus,dsRNA,2,120,242,484,310,0,0,,46,59365578.91
+"2btv,3iyk",Reoviridae,Orbivirus,dsRNA,13,780,315,406,405,4200,0,,47,130924303
+1ej6,Reoviridae,Orthoreovirus,dsRNA,2,120,236,377,367,2100,N/A,,48,55058530.78
+1uf2,Reoviridae,Phytoreovirus,dsRNA,13,780,255,379,367,-180,N/A,,49,69455901.18
+3iz3,Reoviridae,Reovirus,dsRNA,2,60,270,470,364,0,0,,50,82447957.6
+"3gzt,3iyu,3kz4,3n09",Reoviridae,Rotavirus,dsRNA,13,780,325,498,484,-11760,12373938,,51,143793313.7
+2x8q,Retroviridae,Alpharetrovirus,ssRNA-RT,1,60,58,120,120,300,733080,8000,52,817283.2344
+3j31,Rudiviridae,Rudivirus,dsDNA,31,1860,275,485,359,0,0,,53,87113746.29
+"1a34,1stm,2buk,3rqv",Satellites,Satellite Viruses,ssRNA,1,60,56,98,96,480,297906,,54,735618.5806
+"1if0,1ohg,2frp,2fs3,2fsy,2ft1,2fte,2gp1,3ddx,3e8k,3p8q,4an5",Siphoviridae,Lambda-like viruses,dsDNA,7l,420,278,338,331,-2100,5695608,,55,89995956.49
+3qpr,Siphoviridae,Lamda-like viruses,dsDNA,7l,420,194,268,254,-1260,3819606,,56,30583965.78
+"1f2n,1ng0,1smv,1vak,1vb2,1vb4,1x33,1x35,1x36,2izw,2vq0,4sbv",Sobemoviridae,Sobemovirus,ssRNA,3,180,109,160,155,1200,753900,,57,5424604.79
+"1gw7,1gw8,1hb5,1hb7,1hb9,1w8x",Tectiviridae,Tectivirus,dsDNA,pT25,780,244,352,338,-3300,8786034,,58,60849650.53
+2qqp,Tetraviridae,Betatetravirus,ssRNA,4,240,114,210,207,-4980,2291442,,59,6205876.995
+"1ohf,3s6p",Tetraviridae,Omegatetravirus,ssRNA,4,240,117,219,211,-2940,2582754,,60,6708820.846
+2e0z,Thermococcaceae,Pyrococcus,ssDNA,3,180,141,192,185,-300,1190646,,61,11742104.67
+"1dyl,1ld4,2xfb,2xfc,2yew,3j0c,3j0f,3j2w,3muw",Togaviridae,Alphavirus,ssRNA,4,240,264,349,345,11160,10573416,,62,77072667.44
+"1opo,2zah,3zx8,3zx9",Tombusviridae,Carmovirus,ssRNA,3,180,124,188,187,660,1821948,,63,7986447.935
+"1c8n,1tnv",Tombusviridae,Necrovirus,ssRNA,3,180,109,159,155,-180,668658,,64,5424604.79
+2tbv,Tombusviridae,Tombusvirus,ssRNA,3,180,109,176,173,240,1273134,,65,5424604.79
+1m1c,Totiviridae,Totivirus,dsRNA,1,60,159,220,216,720,1847532,,66,16837592.02
+"1.00E+57,1auy,1ddl,1qjz,1w39,2fz1,2fz2,2xpj",Tymoviridae,Tymovirus,ssRNA,3,180,107,159,156,1140,899148,,67,5131448.119

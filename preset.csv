@@ -1,0 +1,58 @@
+Disease ,Gene,Size(nt) - DNA Gene Linear
+Alström syndrome,ALMS1,231167
+Ataxia telangiectasia,ATM,153268
+CADASIL syndrome,NOTCH3,48349
+CHARGE syndrome,CHD7,195127
+Chédiak–Higashi syndrome,LYST,229598
+Duchenne muscular dystrophy,DMD,2227382
+Erythropoietic protoporphyria,FECH,48897
+Fabry Disease ,GLA,17155
+Fatal familial insomnia,PRNP,22438
+Familial adenomatous polyposis,APC,163719
+Feingold syndrome,MYCN,13447
+FG syndrome,MED12,30899
+Gaucher disease,GBA,17246
+Hailey–Hailey disease,ATP2C1,173188
+Harlequin type ichthyosis,ABCA12,213886
+Hereditary neuropathy with liability to pressure palsies,PMP22,42549
+Hunter syndrome,IDS,33569
+Incontinentia pigmenti,IKBKG,29803
+Ischiopatellar dysplasia,TBX4,34858
+Juvenile primary lateral sclerosis (JPLS),ALS2,87910
+Kniest dysplasia,COL2A1,38538
+Kosaki overgrowth syndrome,PDGFRB,49021
+Krabbe disease,GALC,67550
+Kufor–Rakeb syndrome,ATP13A2,32971
+LCAT deficiency,LCAT,11229
+Li–Fraumeni syndrome,TP53,32772
+Malignant hyperthermia,RYR1 ,160865
+Maroteaux–Lamy syndrome,ARSB,216326
+McLeod syndrome,XK,53251
+MEDNIK syndrome,AP1S1,13880
+"Mediterranean fever, familial",MEFV,21600
+Mowat–Wilson syndrome,ZEB2,143017
+Muenke syndrome,FGFR3,22561
+Multiple endocrine neoplasia type 1,MEN1,14781
+Multiple endocrine neoplasia type 2,RET,60283
+Natowicz syndrome,HYAL1,19493
+PCC deficiency (propionic acidemia,PC,116851
+Peutz–Jeghers syndrome,STK11,46029
+Phenylketonuria,PAH,128526
+Pitt–Hopkins syndrome,TCF4 ,420663
+Protein C deficiency,PROC,17827
+Pseudoxanthoma elasticum,ABCC6,80907
+Rett syndrome,MECP2,122315
+Roberts syndrome,ESCO2,37368
+Rubinstein–Taybi syndrome (RSTS),CREBBP,162660
+Sandhoff disease,HEXB,88266
+Schwartz–Jampel syndrome,HSPG2,122014
+Shprintzen–Goldberg syndrome,FBN1,244483
+Siderius X-linked mental retardation syndrome,PHF8,115457
+Sly syndrome,GUSB,28631
+Tay–Sachs disease,HEXA,39743
+Variegate porphyria,PPOX,18623
+von Hippel–Lindau disease,VHL,17444
+Weissenbacher–Zweymüller syndrome,COL11A2,36777
+Wilson disease,ATP7B,85826
+Xeroderma pigmentosum,ERCC4,39192
+X-linked sideroblastic anemia (XLSA),ALAS2,29010
