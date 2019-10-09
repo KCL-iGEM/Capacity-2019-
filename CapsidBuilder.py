@@ -3,7 +3,7 @@ CapsidBuilder
 
 Investigate the feasibility of novel viral capsid construction by evaluating the protein expression
 levels from wet lab constructs using translation efficiency measurements. These measurements will be
-used to select one of our constructs that may be to build novel theoretical viral capsids.
+used to select one of our constructs that may be used to build novel theoretical viral capsids.
 
 '''
 from P1 import*
