@@ -109,7 +109,7 @@ def script():
     TVALreadjustmentsall()
 
 
-    #Determine the Capsid Stability - else also add additional biophysic calculations?
+    #Determine the Capsid Stability 
     print("\n\n" + "-" * 180)
     print("\t" * 18 + "||EVALUATION OF CAPSID STABILITY||")
     print("-" * 180)
@@ -143,7 +143,7 @@ def script():
 
 
 
-    #this restart the script again for another gene input -----end with this!
+    #this restart the script again for another gene input 
     restart = input("\n\n\nWould you like enter another gene length?")
     if restart == "yes" or restart == "y":
         script()
