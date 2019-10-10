@@ -118,9 +118,7 @@ def script():
         capsidstabwithAVAL()
     if decide_rbs2 == True:
         capsidstabwithNOOAVAL()
-    '''
-    add calculations for biophysics  - include final summary table for final capsid selection 
-    '''
+  
     #final table for current therapeutic using viral capsids
     therapeuticsTABLE()
 
